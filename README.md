@@ -1,5 +1,7 @@
 # lingbib
 
+[![Join the chat at https://gitter.im/lingbib/lingbib](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lingbib/lingbib?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a repository for collaborative, decentralized management of a comprehensive linguistics bibliography.
 
 Everyone who is a linguist and a user of (La)TeX eventually goes through the process of creating and maintaining their own `.bib` file for references. In our opinion, this is wasted effort. Instead, we could all contribute to the maintenance of a single, comprehensive bibliography file for linguistics. In addition to saving everyone some time, another advantages of this approach is that there will be, in principle, fewer errors in the database, since more people will be looking things over.
